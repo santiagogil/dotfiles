@@ -1,0 +1,710 @@
+# Vim 7.3 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/datos
+
+# Último SustituciónPatrón de búsqueda:
+~MSle0&\n
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q!
+:x
+:q
+:w
+:x!
+:%norm I 
+:%norm :j
+:%norm j
+:j
+:s/\n//
+:'<,'>%s/n//g
+:b
+:b2!
+:b2
+:b3
+:b1
+:%s/\s\+$//
+:Q!
+:40 d
+:%s/\\n\\n/ \\n\\n /g
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/datos
+?/mp3
+?/val
+?/''
+?/erbio
+?/contai
+?/foo
+?/logo
+?/succ
+?/th
+?/active
+?/focus
+?/@
+? \n
+?//\n
+?/n
+?/
+? \s\+$
+?/branch
+?/pages
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+=SuperTab('n')
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	CHAR	0
+	 tabindex="-1" role="menuitem"
+"1	LINE	0
+	$('#rmenu').attr('aria-expanded', true)dd
+"2	LINE	0
+	($('#rmenu').click(function(){
+"3	LINE	0
+	  $('#rmenu').attr('aria-expanded', function(val){
+"4	LINE	0
+	    return !val;
+"5	LINE	0
+	});});dd)
+"6	LINE	0
+	
+"7	LINE	0
+	  <script src="/vendor/showdown/compressed/showdown.js"></script>
+"8	LINE	0
+	}
+"9	LINE	0
+	top: 180px;
+""-	CHAR	0
+	/
+
+# Marcas en el archivo:
+'0  31  6  ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+'1  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/bower.json
+'2  51  0  ~/Code/PCIatTDF/Software/ember-app-kit/package.json
+'3  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/dist/index.html
+'4  17  99  ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+'5  1  5044  ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/assets/c61b9fb7.app.css
+'6  1  14  ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/index.html
+'7  1  1147  ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/assets/009abdd0.app.min.js
+'8  77  32  ~/Code/w3siete/responsive-email-kit/templates/sidebar.html
+'9  1  0  ~/Code/w3siete/responsive-email-kit/templates/sidebar
+
+# Lista de saltos (el más reciente va primero):
+-'  31  6  ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/bower.json
+-'  51  0  ~/Code/PCIatTDF/Software/ember-app-kit/package.json
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/package.json
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/dist/index.html
+-'  17  99  ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+-'  5  186  ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+-'  13  2  ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+-'  1  5044  ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/assets/c61b9fb7.app.css
+-'  1  14  ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/index.html
+-'  1  1147  ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/assets/009abdd0.app.min.js
+-'  77  32  ~/Code/w3siete/responsive-email-kit/templates/sidebar.html
+-'  1  0  ~/Code/w3siete/responsive-email-kit/templates/sidebar.html
+-'  1  0  ~/Code/w3siete/responsive-email-kit/templates/sidebar
+-'  28  0  ~/Code/w3siete/responsive-email-kit/data/lists.json
+-'  1  0  ~/Code/w3siete/responsive-email-kit/data/lists.json
+-'  1  0  ~/Code/w3siete/responsive-email-kit/data/basic.json
+-'  1  0  ~/Code/w3siete/responsive-email-kit/data/global.json
+-'  100  0  ~/Code/w3siete/responsive-email-kit/templates/basic.html
+-'  1  0  ~/Code/w3siete/responsive-email-kit/templates/basic.html
+-'  29  0  ~/Code/w3siete/responsive-email-kit/sass/basic.scss
+-'  1  0  ~/Code/w3siete/responsive-email-kit/sass/basic.scss
+-'  1  0  ~/Code/PCIatTDF/blog/posts/markdownTest.md
+-'  119  1  ~/Code/PCIatTDF/blog/Gruntfile.js
+-'  18  1  ~/Code/PCIatTDF/blog/Gruntfile.js
+-'  4  1  ~/Code/PCIatTDF/Software/ember-app-kit/.gitignore
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/.gitignore
+-'  88  5  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap-accessibility-plugin/plugins/js/bootstrap-accessibility.js
+-'  34  29  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap-accessibility-plugin/plugins/js/bootstrap-accessibility.js
+-'  29  40  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap-accessibility-plugin/plugins/js/bootstrap-accessibility.js
+-'  19  94  ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+-'  80  0  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap-accessibility-plugin/plugins/js/bootstrap-accessibility.js
+-'  4  37  ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+-'  3  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+-'  14  101  ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+-'  18  2  ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+-'  18  56  ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+-'  24  53  ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+-'  7  76  ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+-'  4  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/app.js
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/app.js
+-'  1  19  ~/Code/PCIatTDF/Software/ember-app-kit/app/helpers/format-markdown.js
+-'  5  15  ~/Code/PCIatTDF/Software/ember-app-kit/app/helpers/format-markdown.js
+-'  9  67  ~/Code/PCIatTDF/Software/ember-app-kit/app/models/elemento.js
+-'  508  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/models/elemento.js
+-'  554  21  ~/Code/PCIatTDF/Software/ember-app-kit/app/models/elemento.js
+-'  527  11  ~/Code/PCIatTDF/Software/ember-app-kit/app/models/elemento.js
+-'  958  23  ~/Code/PCIatTDF/Software/ember-app-kit/app/models/elemento.js
+-'  32  16  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  221  15  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  17  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  222  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  223  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  22  37  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+-'  117  5  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+-'  21  30  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+-'  569  37  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+-'  593  37  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+-'  598  28  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+-'  104  29  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  97  14  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  91  14  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  85  14  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  69  4  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  57  4  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  48  4  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  45  4  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  10  4  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  6  4  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  33  0  ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+-'  256  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  4  1  ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/Gruntfile.js
+-'  244  46  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+-'  257  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  1  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/bootstrap.less
+-'  8  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/bootstrap
+-'  249  13  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  126  0  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  212  3  ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+-'  16  11  ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/control
+-'  24  1  ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/copyright
+-'  1  0  ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/copyright
+-'  8  40  ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/control
+-'  1  0  ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/control
+-'  3  31  ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/changelog
+-'  1  0  ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/changelog
+-'  24  1  ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/copyright
+-'  1  0  ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/copyright
+-'  16  11  ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/control
+-'  1  0  ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/control
+-'  3  31  ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/changelog
+-'  1  0  ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/changelog
+-'  24  1  ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-especial/debian/copyright
+-'  1  0  ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-especial/debian/copyright
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/public/index.html
+	"	31	6
+	.	23	15
+	+	13	63
+	+	6	26
+	+	5	27
+	+	4	2
+	+	8	73
+	+	19	0
+	+	16	0
+	+	16	0
+	+	13	101
+	+	13	0
+	+	6	31
+	+	7	31
+	+	8	31
+	+	12	15
+	+	13	15
+	+	14	15
+	+	15	15
+	+	16	15
+	+	17	15
+	+	18	15
+	+	22	15
+	+	23	15
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/bower.json
+	"	1	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/vendor/showdown/package.json
+	"	41	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/package.json
+	"	51	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/dist/index.html
+	"	1	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/app/templates/application.hbs
+	"	17	99
+	^	16	43
+	.	5	186
+	+	2	32
+	+	27	0
+	+	5	80
+	+	15	44
+	+	24	53
+	+	17	53
+	+	18	47
+	+	19	48
+	+	17	0
+	+	18	80
+	+	17	88
+	+	19	109
+	+	19	58
+	+	18	49
+	+	19	76
+	+	22	82
+	+	23	88
+	+	24	84
+	+	23	132
+	+	16	41
+	+	17	56
+	+	18	38
+	+	19	39
+	+	17	104
+	+	18	101
+	+	19	97
+	+	5	198
+	+	16	54
+	+	17	102
+	+	18	101
+	+	19	97
+	+	22	83
+	+	23	90
+	+	24	84
+	+	22	97
+	+	19	112
+	+	22	97
+	+	23	104
+	+	24	98
+	+	22	9
+	+	23	9
+	+	24	9
+	+	4	0
+	+	16	30
+	+	15	64
+	+	5	229
+	+	5	139
+	+	15	99
+	+	17	28
+	+	18	9
+	+	19	9
+	+	22	9
+	+	23	9
+	+	24	9
+	+	17	95
+	+	18	0
+	+	18	96
+	+	19	97
+	+	22	75
+	+	23	81
+	+	24	75
+	+	5	131
+	+	17	78
+	+	18	81
+	+	19	84
+	+	5	156
+	+	17	107
+	+	18	111
+	+	19	113
+	+	22	75
+	+	23	81
+	+	24	75
+	+	5	166
+	+	17	137
+	+	18	127
+	+	19	129
+	+	22	91
+	+	23	97
+	+	24	91
+	+	5	186
+	+	17	157
+	+	18	170
+	+	19	166
+	+	22	144
+	+	23	116
+	+	24	147
+	+	17	60
+	+	18	62
+	+	19	63
+	+	17	6
+	+	18	6
+	+	19	6
+	+	22	150
+	+	23	159
+	+	24	148
+	+	17	55
+	+	16	34
+	+	5	186
+
+> ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/assets/c61b9fb7.app.css
+	"	1	5044
+	^	1	5045
+	.	1	5044
+	+	1	5044
+
+> ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/index.html
+	"	1	14
+	.	8	31
+	+	6	31
+	+	7	31
+	+	8	31
+
+> ~/Code/PCIatTDF/Software/artomicotest/artomico-0.1.0/assets/009abdd0.app.min.js
+	"	1	1147
+	^	1	1148
+	.	1	1147
+	+	1	1147
+
+> ~/Code/w3siete/responsive-email-kit/templates/sidebar.html
+	"	77	32
+
+> ~/Code/w3siete/responsive-email-kit/templates/sidebar
+	"	1	0
+
+> ~/Code/w3siete/responsive-email-kit/data/lists.json
+	"	28	0
+
+> ~/Code/w3siete/responsive-email-kit/data/basic.json
+	"	1	0
+
+> ~/Code/w3siete/responsive-email-kit/data/global.json
+	"	1	0
+
+> ~/Code/w3siete/responsive-email-kit/templates/basic.html
+	"	100	0
+
+> ~/Code/w3siete/responsive-email-kit/sass/basic.scss
+	"	29	0
+
+> ~/Code/PCIatTDF/blog/posts/markdownTest.md
+	"	1	0
+
+> ~/Code/PCIatTDF/blog/Gruntfile.js
+	"	119	1
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/.gitignore
+	"	4	1
+	^	4	2
+	.	4	1
+	+	4	1
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap-accessibility-plugin/plugins/js/bootstrap-accessibility.js
+	"	88	5
+	^	33	44
+	.	34	29
+	+	27	0
+	+	81	0
+	+	29	40
+	+	33	43
+	+	34	29
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/app/app.js
+	"	4	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/app/helpers/format-markdown.js
+	"	1	19
+	.	1	0
+	+	1	19
+	+	1	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/app/models/elemento.js
+	"	9	67
+	^	9	68
+	.	9	67
+	+	153	11
+	+	161	11
+	+	169	11
+	+	178	0
+	+	177	11
+	+	185	11
+	+	193	11
+	+	201	11
+	+	209	11
+	+	217	11
+	+	225	11
+	+	233	11
+	+	241	11
+	+	249	11
+	+	257	11
+	+	265	11
+	+	273	11
+	+	281	11
+	+	289	11
+	+	297	11
+	+	305	11
+	+	313	11
+	+	321	11
+	+	329	11
+	+	337	11
+	+	345	11
+	+	353	11
+	+	361	11
+	+	369	11
+	+	377	11
+	+	385	11
+	+	393	11
+	+	401	11
+	+	409	11
+	+	417	11
+	+	425	11
+	+	433	11
+	+	441	11
+	+	449	11
+	+	457	11
+	+	465	11
+	+	473	11
+	+	481	11
+	+	489	11
+	+	497	11
+	+	505	11
+	+	513	11
+	+	521	11
+	+	529	11
+	+	537	11
+	+	545	11
+	+	553	11
+	+	561	11
+	+	569	11
+	+	577	11
+	+	585	11
+	+	593	11
+	+	601	11
+	+	609	11
+	+	617	11
+	+	625	11
+	+	633	11
+	+	641	11
+	+	649	11
+	+	657	11
+	+	665	11
+	+	673	11
+	+	681	11
+	+	689	11
+	+	697	11
+	+	705	11
+	+	713	11
+	+	721	11
+	+	729	11
+	+	737	11
+	+	745	11
+	+	753	11
+	+	761	11
+	+	769	11
+	+	777	11
+	+	785	11
+	+	793	11
+	+	801	11
+	+	809	11
+	+	817	11
+	+	825	95
+	+	825	197
+	+	833	16
+	+	833	201
+	+	857	24
+	+	865	68
+	+	897	54
+	+	921	51
+	+	937	61
+	+	952	356
+	+	554	21
+	+	6	76
+	+	7	69
+	+	8	67
+	+	9	67
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/app.css
+	"	32	16
+	^	32	17
+	.	32	16
+	+	48	21
+	+	69	7
+	+	70	8
+	+	124	7
+	+	125	8
+	+	228	18
+	+	231	18
+	+	234	18
+	+	237	18
+	+	240	18
+	+	243	18
+	+	246	18
+	+	249	18
+	+	252	18
+	+	255	18
+	+	257	0
+	+	206	7
+	+	218	0
+	+	223	0
+	+	222	0
+	+	17	0
+	+	221	15
+	+	32	16
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/variables.less
+	"	613	3
+	^	22	38
+	.	22	37
+	+	241	41
+	+	249	49
+	+	252	46
+	+	596	28
+	+	593	30
+	+	21	30
+	+	22	37
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/less/navbar.less
+	"	364	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/vendor/bootstrap/Gruntfile.js
+	"	1	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/bootstrap.less
+	"	1	0
+
+> ~/Code/PCIatTDF/Software/ember-app-kit/app/styles/bootstrap/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/control
+	"	16	11
+	^	16	12
+	.	16	11
+	+	2	17
+	+	7	10
+	+	8	15
+	+	9	13
+	+	14	81
+	+	17	0
+	+	16	11
+
+> ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/copyright
+	"	24	1
+	^	3	65
+	.	25	0
+	+	3	8
+	+	5	0
+	+	25	0
+
+> ~/Code/PCIatTDF/Adaptaciones/INFOD/huayra-meta-ciencias-naturales/debian/changelog
+	"	3	31
+	^	3	31
+	.	3	31
+	+	3	31
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/copyright
+	"	24	1
+	^	3	50
+	.	25	0
+	+	3	8
+	+	5	0
+	+	25	0
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/control
+	"	16	11
+	^	16	12
+	.	16	11
+	+	2	17
+	+	7	10
+	+	8	15
+	+	9	13
+	+	14	13
+	+	17	0
+	+	16	11
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-tgd/debian/changelog
+	"	3	31
+	^	3	31
+	.	3	31
+	+	3	31
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-especial/debian/copyright
+	"	24	1
+	^	3	55
+	.	25	0
+	+	3	8
+	+	5	0
+	+	25	0
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-especial/debian/control
+	"	16	11
+	^	16	12
+	.	16	11
+	+	2	17
+	+	7	10
+	+	8	15
+	+	9	13
+	+	14	76
+	+	17	0
+	+	16	11
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-especial/debian/changelog
+	"	3	31
+	^	3	31
+	.	3	31
+	+	3	31
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-multiimpedidos/debian/copyright
+	"	24	1
+	^	3	61
+	.	25	0
+	+	3	8
+	+	5	0
+	+	25	0
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-multiimpedidos/debian/control
+	"	16	11
+	^	16	12
+	.	16	11
+	+	4	0
+	+	2	18
+	+	9	0
+	+	8	15
+	+	9	13
+	+	11	0
+	+	9	66
+	+	14	13
+	+	17	0
+	+	16	11
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-multiimpedidos/debian/changelog
+	"	4	0
+	^	4	0
+	.	3	32
+	+	3	32
+	+	5	0
+	+	3	32
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-auditivos/debian/copyright
+	"	24	1
+	^	4	0
+	.	25	0
+	+	5	0
+	+	3	56
+	+	5	0
+	+	25	0
+
+> ~/Code/PCIatTDF/Adaptaciones/Especial/huayra-meta-auditivos/debian/control
+	"	16	11
+	^	16	12
+	.	16	11
+	+	2	17
+	+	7	10
+	+	8	15
+	+	9	13
+	+	11	0
+	+	9	61
+	+	17	0
+	+	17	0
+	+	16	11
+
+> ~/Code/PCIatTDF/Adaptacion
